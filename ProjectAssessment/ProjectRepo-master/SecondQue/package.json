@@ -1,0 +1,14 @@
+{
+  "name": "question2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question2.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}

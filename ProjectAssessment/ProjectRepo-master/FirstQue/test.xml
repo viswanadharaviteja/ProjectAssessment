@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <graph>
+        <node>
+            <name>Node 1</name>
+            <company>Wipro</company>
+        </node>
+        <node>
+            <name>Node 2</name>
+            <company>TCS</company>
+        </node>
+        <node>
+            <name>Node 3</name>
+            <company>Infosys</company>
+        </node>
+    </graph>
+</root>
